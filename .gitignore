@@ -1,0 +1,12 @@
+*.md
+data/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.venv/
+report/*.aux
+report/*.log
+report/*.out
+report/*.bbl
+report/*.blg
+report/*.pdf
