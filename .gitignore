@@ -10,4 +10,5 @@ report/*.out
 report/*.bbl
 report/*.blg
 report/*.pdf
+!README.md
 !report/report.pdf
